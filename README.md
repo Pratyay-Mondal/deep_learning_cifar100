@@ -48,7 +48,7 @@ Addressed severe overfitting (Train 76% / Test 46%) caused by data scarcity in C
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/Pratyay-Mondal/deep_learning_cifar100.git](https://github.com/Pratyay-Mondal/deep_learning_cifar100.git)
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
 ```
