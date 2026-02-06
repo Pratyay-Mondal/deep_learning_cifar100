@@ -1,4 +1,4 @@
-# THWS/MAI/IDL25 Exam retake
+# THWS/MAI/IDL25 DL Exam
 
 **Magda Gregorova, 2025-11-30**
 
