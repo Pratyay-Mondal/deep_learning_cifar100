@@ -76,7 +76,7 @@ All Done!
 ```
 
 CNN: Training and Validation: Loss and Accuracy
-![alt text](task2_CNN_simple.png)
+<img width="1400" height="500" alt="task2_CNN_simple" src="https://github.com/user-attachments/assets/12ea1036-3e22-4d2d-a4c4-3e086495fd01" />
 
 
 ### 2nd step: 
@@ -168,7 +168,7 @@ All Done!
 
 
 CNN: Training and Validation: Loss and Accuracy
-![alt text](training_history_cnn.png)
+<img width="4168" height="1468" alt="training_history_cnn" src="https://github.com/user-attachments/assets/2c4584c8-b426-45db-82b4-0b45eb9c9572" />
 
 
 
