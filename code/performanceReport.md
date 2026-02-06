@@ -74,7 +74,7 @@ All Done!
 ```
 
 MLP: Training and Validation: Loss and Accuracy
-![Training and Validation: Loss and Accuracy](task1_MLP_Figure.png)
+<img width="1400" height="500" alt="task1_MLP_Figure" src="https://github.com/user-attachments/assets/b07dcff0-13cf-4210-af42-8ffe01de253e" />
 
 
 ### CNN results:
@@ -149,4 +149,4 @@ All Done!
 
 CNN: Training and Validation: Loss and Accuracy
 
-![Training and Validation: Loss and Accuracy](task1_CNN_Figure_1.png)
+<img width="1400" height="500" alt="task1_CNN_Figure_1" src="https://github.com/user-attachments/assets/bfb1cd71-b6b4-4057-989a-e8ae55fe7473" />
