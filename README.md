@@ -48,8 +48,8 @@ Addressed severe overfitting (Train 76% / Test 46%) caused by data scarcity in C
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone [https://github.com/Pratyay-Mondal/deep_learning_cifar100.git](https://github.com/Pratyay-Mondal/deep_learning_cifar100.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/Pratyay-Mondal/deep_learning_cifar100.git
+cd deep_learning_cifar100/code
 pip install -r requirements.txt
 ```
 
@@ -98,7 +98,7 @@ Test Loss:     1.6249
 
 
 ### 🏆 Final Model Checkpoint
-* **File:** checkpoints/best_model_cnn.pth
+* **File:** ```checkpoints/best_model_cnn.pth```
 * **Architecture:** Standard CNN (2 Conv Blocks + 2 FC Layers)
 * **Input:** 3×32×32
 * **Classes:** 100
